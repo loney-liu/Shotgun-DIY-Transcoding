@@ -1,8 +1,8 @@
 # Shotgun DIY Transcoding
 
-### Install Shotgun API3
+**Noticed: Python3 supported.**
 
-**Python3 supported.**
+### Install Shotgun API3
 
 [API Install Guide](https://developer.shotgunsoftware.com/python-api/installation.html)
 
